@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Sewa Mobil Mudah & Cepat di BATAM 
+      title: Sewa Mobil Mudah & Cepat di BATAMs 
       text: 🧱 Mulai Perjalanan Nyamanmu Sekarang! 🧱
       primary_action:
         text: BOOKS  NOW
