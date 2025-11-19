@@ -17,11 +17,11 @@ sections:
         url: https://wa.me/6281276586334?text=I%27m%20interested%20in%20your%20car%20for%20Rents
       
     
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+        # announcement:
+        #text: "Announcing the release of version 1."
+        #link:
+        # text: "Read more"
+        # url: "/blog/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
