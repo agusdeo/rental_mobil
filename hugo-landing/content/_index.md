@@ -10,18 +10,18 @@ design:
 sections:
   - block: hero
     content:
-      title: Sewa Mobil Mudah & Cepat di BATAMs 
+      title: Sewa Mobil Mudah & Cepat di BATAMs 
       text: 🧱 Mulai Perjalanan Nyamanmu Sekarang! 🧱
       primary_action:
         text: BOOKS  NOW
         url: https://wa.me/6281276586334?text=I%27m%20interested%20in%20your%20car%20for%20Rents
       
     
-        # announcement:
-        #text: "Announcing the release of version 1."
-        #link:
-        # text: "Read more"
-        # url: "/blog/"
+      announcement:
+        text: "Announcing the release of version 1."
+        link:
+          text: "Read more"
+          url: "/blog/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
@@ -113,7 +113,7 @@ sections:
             url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
-      css_class: "bg-
+      css_class: "bg-gray-100 dark:bg-gray-900"
   - block: testimonials
     content:
       title: ""
