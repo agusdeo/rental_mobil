@@ -82,6 +82,9 @@ jobs:
       uses: actions/configure-pages@v5
 
     - name: Build with Hugo
+
+
+      working-directory: ./hugo-landing
       env:
         HUGO_ENVIRONMENT: production
       run: |
